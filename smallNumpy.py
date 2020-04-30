@@ -12,3 +12,7 @@ b = np.array([4, 3, 2, 1, 0])
 c = a*b
 
 print(c)
+
+d = a.dot(b)
+
+print(d)
