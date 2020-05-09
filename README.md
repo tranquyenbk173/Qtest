@@ -1,2 +1,2 @@
 # Qtest
-some experiments
+some tests
